@@ -9,8 +9,45 @@ Students are required to turn in a term paper (15 pp.) at the end of the term an
 {{< anchor "Student_Work" >}}{{< /anchor >}}Student Work
 --------------------------------------------------------
 
-| STUDENTS | ASSIGNMENTS |
-| --- | --- |
-| MIT student | Final paper ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn02)) (Courtesy of MIT Student. Used with permission.) |
-| MIT student | Modernism ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn01)) (Courtesy of MIT Student. Used with permission.) |
-| MIT student | On growing up ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn03)) (Courtesy of MIT Student. Used with permission.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn02)) (Courtesy of MIT Student. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+Modernism ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn01)) (Courtesy of MIT Student. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+On growing up ([PDF]({{< baseurl >}}/resources/mit21l_709f10_assn03)) (Courtesy of MIT Student. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

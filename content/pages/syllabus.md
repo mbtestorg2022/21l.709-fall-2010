@@ -29,10 +29,39 @@ Readings for this course include works by the philosopher Friedrich Nietzsche, t
 
 There will be no final exam.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Papers | 60% |
-| Classroom participation (including presentation) | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classroom participation (including presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Statement on Plagiarism
 ---------------------------
@@ -42,30 +71,351 @@ Plagiarism—use of another's intellectual work without acknowledgment—is a se
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductory: What does "modern" mean? | &nbsp; |
-| 2 | Friedrich Nietzsche, _The Will to Power_ | &nbsp; |
-| 3 | Nietzsche, _The Will to Power_ (cont.) | &nbsp; |
-| 4 | Kate Chopin, _The Awakening_ | &nbsp; |
-| 5 | Lawrence, D. H. "_Odour of Chrysanthemums_" | &nbsp; |
-| 6 | Franz Kafka, _The Trial_ | &nbsp; |
-| 7 | Franz Kafka, _The Blue Octavo Notebooks_ | &nbsp; |
-| 8 | Cézanne, Nijinsky, Schoenberg, Monk | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} James Joyce, _Ulysses_ {{< br >}}{{< br >}} Virginia Woolf, "Modern Fiction" in _The Common Reader_ {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Joyce, _Ulysses_ (cont.) {{< br >}}{{< br >}} Woolf, "Modern Fiction" in _The Common Reader_ (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Joyce, _Ulysses_ (cont.) {{< br >}}{{< br >}} Woolf, "Modern Fiction" in _The Common Reader_ (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Joyce, _Ulysses_ (cont.) {{< br >}}{{< br >}} Woolf, "Modern Fiction" in _The Common Reader_ (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Joyce, _Ulysses_ (cont.) {{< br >}}{{< br >}} Woolf, "Modern Fiction" in _The Common Reader_ (cont.) {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | Marcel Proust, _Swann's Way_ | Preliminary draft due |
-| 15 | Proust, _Swann's Way_ (cont.) | &nbsp; |
-| 16 | Virginia Woolf, _To the Lighthouse_ | &nbsp; |
-| 17 | Woolf, _To the Lighthouse_ (cont.) | &nbsp; |
-| 18 | Walter Benjamin, _Berlin Childhood around 1900_ | &nbsp; |
-| 19 | Benjamin, _Berlin Childhood around 1900_ (cont.) | &nbsp; |
-| 20 | Martin Heidegger, _Poetry, Language, and Thought_ ("Building Dwelling Thinking") | &nbsp; |
-| 21 | Martin Heidegger, _Poetry, Language, and Thought_ ("The Thing") | &nbsp; |
-| 22 | Film Theory | &nbsp; |
-| 23 | Lang, Fritz. M. (1931) | &nbsp; |
-| 24 | Cocteau, Jean. Beauty and the Beast (1946) | &nbsp; |
-| 25 | Fellini, Federico. 8½. (1963) | Term paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory: What does "modern" mean?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Friedrich Nietzsche, _The Will to Power_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Nietzsche, _The Will to Power_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Kate Chopin, _The Awakening_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lawrence, D. H. "_Odour of Chrysanthemums_"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Franz Kafka, _The Trial_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Franz Kafka, _The Blue Octavo Notebooks_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Cézanne, Nijinsky, Schoenberg, Monk
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+James Joyce, _Ulysses_
+
+Virginia Woolf, "Modern Fiction" in _The Common Reader_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joyce, _Ulysses_ (cont.)
+
+Woolf, "Modern Fiction" in _The Common Reader_ (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joyce, _Ulysses_ (cont.)
+
+Woolf, "Modern Fiction" in _The Common Reader_ (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joyce, _Ulysses_ (cont.)
+
+Woolf, "Modern Fiction" in _The Common Reader_ (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joyce, _Ulysses_ (cont.)
+
+Woolf, "Modern Fiction" in _The Common Reader_ (cont.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Marcel Proust, _Swann's Way_
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary draft due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Proust, _Swann's Way_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Virginia Woolf, _To the Lighthouse_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Woolf, _To the Lighthouse_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Walter Benjamin, _Berlin Childhood around 1900_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Benjamin, _Berlin Childhood around 1900_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Martin Heidegger, _Poetry, Language, and Thought_ ("Building Dwelling Thinking")
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Martin Heidegger, _Poetry, Language, and Thought_ ("The Thing")
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Film Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Lang, Fritz. M. (1931)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Cocteau, Jean. Beauty and the Beast (1946)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Fellini, Federico. 8½. (1963)
+{{< tdclose >}}
+{{< tdopen >}}
+Term paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
